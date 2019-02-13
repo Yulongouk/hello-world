@@ -1,3 +1,7 @@
+
+# hello-world
+This is the first repository
+The second attempt to do it
 # Javascript
 2.Creating global variable and accessing them
 Answer=
